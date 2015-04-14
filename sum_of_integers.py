@@ -1,0 +1,19 @@
+#! /usr/bin/env python
+import sys
+
+
+def main():
+    if len(sys.argv) != 2:
+        print('Please provide path to test cases!')
+        return
+
+    total = 0
+    test_cases = open(sys.argv[1], 'r')
+    for line in test_cases:
+        if line == '\n' or line == '':
+            continue
+        total += int(line.strip())
+    print(total)
+
+if __name__ == '__main__':
+    main()
