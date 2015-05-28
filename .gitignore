@@ -4,3 +4,5 @@ bin/
 include/
 lib/
 testinput/
+*still_working/
+*input/
