@@ -1,3 +1,3 @@
 Solutions for the some CodeEval challenges. Please note that not all of these solutions are the most optimal but they (should) work...
 
-Most of these (if not all) are written in Python 3 and Perl.
+Code is written in Python 3 and Perl.
