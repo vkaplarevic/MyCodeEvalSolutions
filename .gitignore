@@ -6,3 +6,4 @@ lib/
 testinput/
 *still_working/
 *input/
+*.swp
