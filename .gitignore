@@ -7,3 +7,4 @@ testinput/
 *still_working/
 *input/
 *.swp
+.Python
